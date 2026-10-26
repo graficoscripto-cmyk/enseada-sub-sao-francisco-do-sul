@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://enseada-sub-sao-francisco-do-sul.vercel.app/sitemap.xml
